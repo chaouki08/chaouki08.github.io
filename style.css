@@ -1,0 +1,36 @@
+body { background-color: black;
+color: white;
+}
+header {
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: xx-large;
+color:white;}
+
+nav, section {
+  border: solid thin;
+  border-radius: 6px;
+  padding: 1ex;
+  margin: 2ex;
+}
+
+header {
+  text-align: center;
+}
+
+#moi {
+  background-color: red;
+  box-shadow: 0 0 20px;
+}
+
+nav {
+background-color: red;
+box-shadow: 0 0 20px;}
+
+#mes-cours{
+background-color: red;
+box-shadow: 0 0 20px;
+}
+
+#mes-loisirs{
+background-color: red;
+box-shadow: 0 0 20px;}
